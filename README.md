@@ -9,4 +9,5 @@ ES6
 Less
 
 npm run build && npm start > localhost:3000
-rpm bun dev > localhost:3001
+
+npm bun dev > localhost:3001
